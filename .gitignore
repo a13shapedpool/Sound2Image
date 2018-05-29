@@ -1,1 +1,6 @@
 .idea/
+pygn/
+api_setup.py
+lyrics_reader2.py
+pygn.py
+__pycache__/
